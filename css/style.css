@@ -1,0 +1,14 @@
+body{
+    background-color: #f3f0d7;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h1,h3{
+color: #5e454b;
+}
+hr {
+width: 5%;
+  border: none;
+  border-top-style: dotted;
+  border-color: #d8b384;
+  border-width: 5px;
+}
